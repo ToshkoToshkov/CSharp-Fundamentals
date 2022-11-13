@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.exe
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.deps.json
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.runtimeconfig.json
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.dll
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\bin\Debug\net6.0\ref\04.BackIn30Minutes.dll
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\bin\Debug\net6.0\04.BackIn30Minutes.pdb
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.dll
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\obj\Debug\net6.0\ref\04.BackIn30Minutes.dll
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.pdb
+C:\Users\Laptop\Desktop\задачи C#\Fundamentals C#\01.LabConditionalStatmentsAndLoopsFundamentalsCSharp\04.BackIn30Minutes\obj\Debug\net6.0\04.BackIn30Minutes.genruntimeconfig.cache
