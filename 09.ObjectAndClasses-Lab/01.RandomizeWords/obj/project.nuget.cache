@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XHETlYtjteMvgRqm7WCtDrdOnuoR+zDxtWkKopH4tI8Jq0Sm9GllFBGNFSkUBX6rCzk7KGCJZDdKPXw5L5Ds5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toshk\\Desktop\\Programming\\Fundamentals C#\\09.ObjectsAndClasses\\01.RandomizeWords\\01.RandomizeWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toshk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toshk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
