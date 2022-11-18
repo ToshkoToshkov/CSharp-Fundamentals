@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\bin\Debug\net6.0\05.Students2.0.exe
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\bin\Debug\net6.0\05.Students2.0.deps.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\bin\Debug\net6.0\05.Students2.0.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\bin\Debug\net6.0\05.Students2.0.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\bin\Debug\net6.0\05.Students2.0.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\05.Students2.0.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\05.Students2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\05.Students2.0.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\05.Students2.0.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\05.Students2.0.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\05.Students2.0.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\refint\05.Students2.0.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\05.Students2.0.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\05.Students2.0.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\05.Students2.0\obj\Debug\net6.0\ref\05.Students2.0.dll
