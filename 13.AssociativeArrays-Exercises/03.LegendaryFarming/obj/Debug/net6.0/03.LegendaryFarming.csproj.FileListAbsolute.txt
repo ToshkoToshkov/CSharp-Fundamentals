@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\bin\Debug\net6.0\03.LegendaryFarming.exe
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\bin\Debug\net6.0\03.LegendaryFarming.deps.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\bin\Debug\net6.0\03.LegendaryFarming.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\bin\Debug\net6.0\03.LegendaryFarming.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\bin\Debug\net6.0\03.LegendaryFarming.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\03.LegendaryFarming.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\03.LegendaryFarming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\03.LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\03.LegendaryFarming.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\03.LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\03.LegendaryFarming.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\refint\03.LegendaryFarming.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\03.LegendaryFarming.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\03.LegendaryFarming.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\03.LegendaryFarming\obj\Debug\net6.0\ref\03.LegendaryFarming.dll
