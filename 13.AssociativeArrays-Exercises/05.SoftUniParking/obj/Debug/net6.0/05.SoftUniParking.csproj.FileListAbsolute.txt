@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\bin\Debug\net6.0\05.SoftUniParking.exe
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\bin\Debug\net6.0\05.SoftUniParking.deps.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\bin\Debug\net6.0\05.SoftUniParking.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\bin\Debug\net6.0\05.SoftUniParking.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\bin\Debug\net6.0\05.SoftUniParking.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\05.SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\05.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\05.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\05.SoftUniParking.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\05.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\05.SoftUniParking.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\refint\05.SoftUniParking.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\05.SoftUniParking.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\05.SoftUniParking.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\13.AssociativeArraysExercise\05.SoftUniParking\obj\Debug\net6.0\ref\05.SoftUniParking.dll
