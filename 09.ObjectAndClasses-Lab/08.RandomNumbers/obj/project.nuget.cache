@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jyGlLg2Grs4IMtvpb7nb+aF6XseqD1uCuVuF4lGoXsP9Qmz7lftP3jWFpQVTc82pmjg5pm+d9L+eVhbWaInf9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toshk\\Desktop\\Programming\\Fundamentals C#\\09.ObjectsAndClasses\\RandomNumbers\\RandomNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toshk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toshk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

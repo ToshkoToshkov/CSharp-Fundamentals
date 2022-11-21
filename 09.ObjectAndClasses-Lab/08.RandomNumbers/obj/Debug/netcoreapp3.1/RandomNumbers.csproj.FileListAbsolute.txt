@@ -1,0 +1,14 @@
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.exe
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.deps.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.dev.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\09.ObjectsAndClasses\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.genruntimeconfig.cache
