@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\bin\Debug\net6.0\08.LetterChangeNumbers.exe
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\bin\Debug\net6.0\08.LetterChangeNumbers.deps.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\bin\Debug\net6.0\08.LetterChangeNumbers.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\bin\Debug\net6.0\08.LetterChangeNumbers.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\bin\Debug\net6.0\08.LetterChangeNumbers.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\08.LetterChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\08.LetterChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\08.LetterChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\08.LetterChangeNumbers.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\08.LetterChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\08.LetterChangeNumbers.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\refint\08.LetterChangeNumbers.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\08.LetterChangeNumbers.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\08.LetterChangeNumbers.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\16.TextProcessing\08.LetterChangeNumbers\obj\Debug\net6.0\ref\08.LetterChangeNumbers.dll
