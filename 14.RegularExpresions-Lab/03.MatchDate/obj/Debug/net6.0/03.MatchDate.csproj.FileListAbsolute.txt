@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\bin\Debug\net6.0\03.MatchDate.exe
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\bin\Debug\net6.0\03.MatchDate.deps.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\bin\Debug\net6.0\03.MatchDate.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\bin\Debug\net6.0\03.MatchDate.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\bin\Debug\net6.0\03.MatchDate.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\03.MatchDate.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\03.MatchDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\03.MatchDate.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\03.MatchDate.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\03.MatchDate.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\03.MatchDate.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\refint\03.MatchDate.dll
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\03.MatchDate.pdb
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\03.MatchDate.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Fundamentals C#\14.RegularExpresions-Regex-lab\03.MatchDate\obj\Debug\net6.0\ref\03.MatchDate.dll
